@@ -1,0 +1,10 @@
+bin\Debug\FirstGit.exe
+bin\Debug\FirstGit.pdb
+bin\Debug\FirstGit.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\FirstGit.Form1.resources
+obj\Debug\FirstGit.Resources.resources
+obj\Debug\FirstGit.vbproj.GenerateResource.Cache
+obj\Debug\FirstGit.exe
+obj\Debug\FirstGit.xml
+obj\Debug\FirstGit.pdb
